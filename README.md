@@ -75,9 +75,10 @@ Buatkan Input Data Mahasiswa dengan mencangkup Nama, Nim, Nilai Tugas, Nilai UTS
 ## Step 3 : Lakukan Seleksi
 Langkah selanjutnya yaitu buatkan decision atau seleksi berupa pertanyaan Menambahkan Data Mahasiswa (Y/T?), jika Ya maka kemabli ke Input Data mahasiswa, jika Tidak maka lanjut ke langkah selanjutnya :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/6a0c9a87454a69adc3c684bd5b86ba9741e6d37e/22.png)
 
-
-
+## Step 4 : Proses Perhitungan
+Langkah ini untuk memproses Nilai Akhir dari Input nilai nilai yang telah dimasukan :
 
 
 
