@@ -32,9 +32,10 @@ Formula ini berarti:
 ## Step 4 : Simpan Data Mahasiswa
 Setelah nilai akhir dihitung, program membuat dictionary untuk menyimpan semua informasi tentang mahasiswa (nama, nim, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir). Dictionary ini kemudian ditambahkan ke dalam list data_mahasiswa :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/38aa34b725a137d906b2832a268e2122519b00be/Cuplikan%20layar%202024-11-18%20192931.png)
 
-
-
+## Step 5 : Code Seleksi Untuk Tanyakan Tambahan Data Mahasiswa
+Setelah menyimpan data, program bertanya kepada pengguna apakah ingin menambah data mahasiswa lagi atau tidak. If pengguna mengetik y, program akan mengulangi proses input. Jika pengguna mengetik t, perulangan akan berhenti, berikan perintah break untuk menghentikan Program :
 
 
 
