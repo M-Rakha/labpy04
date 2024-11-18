@@ -16,5 +16,11 @@ Program kemudian masuk ke dalam sebuah perulangan while yang memungkinkan penggu
 - Nilai UTS: Program meminta input nilai UTS mahasiswa dalam bentuk integer.
 - Nilai UAS: Program meminta input nilai UAS mahasiswa dalam bentuk integer.
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/20697f3f8d27fe6baafafe1a2daa420a0d1c7aad/Cuplikan%20layar%202024-11-18%20192138.png)
+
+## Step 3 : Menghitung Nilai Akhir
+Setelah menerima input nilai tugas, UTS, dan UAS, program menghitung nilai akhir mahasiswa dengan menggunakan formula berikut :
+
+
 
 
