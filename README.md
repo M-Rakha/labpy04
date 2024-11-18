@@ -42,5 +42,10 @@ Setelah menyimpan data, program bertanya kepada pengguna apakah ingin menambah d
 ## Step 6 : Print Data Mahasiswa
 Setelah perulangan selesai (pengguna memilih t untuk berhenti menambah data), program akan menampilkan daftar data mahasiswa yang telah dimasukkan. Untuk setiap mahasiswa data yang ditampilkan meliputi nama, nim, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/11db96ea547c700e8a53440b05e7cfeb8753473a/Cuplikan%20layar%202024-11-18%20193732.png)
+
+## Step 7 : Beri Batas Bawah
+Print '=' dikalikan 80 :
+
 
 
