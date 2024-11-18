@@ -47,5 +47,16 @@ Setelah perulangan selesai (pengguna memilih t untuk berhenti menambah data), pr
 ## Step 7 : Beri Batas Bawah
 Print '=' dikalikan 80 :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/54c77f092dd321d95160cb0413330577e2f1c28e/Cuplikan%20layar%202024-11-18%20193958.png)
+
+## Step 8 : Test Code Program
+Jalankan code program dengan memasukan nama, nilai tugas, nilai uts, nilai uas :
+
+- Nama : Muhammad Rakha Ghani
+- Nim : 312410421
+- Nilai Tugas : 90
+- Nilai UTS : 55
+- Nilai UAS : 80
+
 
 
