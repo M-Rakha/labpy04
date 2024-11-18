@@ -90,7 +90,8 @@ Masuk kelangkah Akhir yaitu menampilkan Nilai Akhir dari Data Mahasiswa yang tel
 ## Step 6 : End
 Titik Berhenti :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/ca1970ffa3eabf1bc554a1ff4035560cead5c8cd/25.png)
 
-
-
+# KESIMPULAN
+Kesimpulan dari Laporan Praktikum di atas adalah penggunaan append dapat menambahkan element lain, jika kita perhatikan penggunaan perulangan sangat membantu untuk memastikan jika ada tambahan data yang diinputkan, namun dari semua itu semua adalah kelas dari sebuah List dari tema praktikum kali ini. Penggunaan List berguna untuk mengetahui apa saja yang ada di dalam data, List mampu menampung beberapa element berbeda.
 
