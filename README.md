@@ -85,9 +85,10 @@ Langkah ini untuk memproses Nilai Akhir dari Input nilai nilai yang telah dimasu
 ## Step 5 : Output Nilai Akhir
 Masuk kelangkah Akhir yaitu menampilkan Nilai Akhir dari Data Mahasiswa yang telah diinputkan dan sudah dihitung :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/bb8bf68c483294c4fa79c27fa91c1072a675aac6/24.png)
 
-
-
+## Step 6 : End
+Titik Berhenti :
 
 
 
