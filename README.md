@@ -21,6 +21,20 @@ Program kemudian masuk ke dalam sebuah perulangan while yang memungkinkan penggu
 ## Step 3 : Menghitung Nilai Akhir
 Setelah menerima input nilai tugas, UTS, dan UAS, program menghitung nilai akhir mahasiswa dengan menggunakan formula berikut :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/eac7487f5e5aa7dbae84399ea3b49e135afa3771/Cuplikan%20layar%202024-11-18%20192655.png)
+
+Formula ini berarti:
+
+- Nilai tugas memiliki bobot 30% dari nilai akhir.
+- Nilai UTS memiliki bobot 35% dari nilai akhir.
+- Nilai UAS memiliki bobot 35% dari nilai akhir.
+
+## Step 4 : Simpan Data Mahasiswa
+Setelah nilai akhir dihitung, program membuat dictionary untuk menyimpan semua informasi tentang mahasiswa (nama, nim, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir). Dictionary ini kemudian ditambahkan ke dalam list data_mahasiswa :
+
+
+
+
 
 
 
