@@ -37,5 +37,10 @@ Setelah nilai akhir dihitung, program membuat dictionary untuk menyimpan semua i
 ## Step 5 : Code Seleksi Untuk Tanyakan Tambahan Data Mahasiswa
 Setelah menyimpan data, program bertanya kepada pengguna apakah ingin menambah data mahasiswa lagi atau tidak. If pengguna mengetik y, program akan mengulangi proses input. Jika pengguna mengetik t, perulangan akan berhenti, berikan perintah break untuk menghentikan Program :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/111482a75222a587dd2738abe253570e4fa1abe8/Cuplikan%20layar%202024-11-18%20193243.png)
+
+## Step 6 : Print Data Mahasiswa
+Setelah perulangan selesai (pengguna memilih t untuk berhenti menambah data), program akan menampilkan daftar data mahasiswa yang telah dimasukkan. Untuk setiap mahasiswa data yang ditampilkan meliputi nama, nim, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir :
+
 
 
