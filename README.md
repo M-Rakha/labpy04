@@ -80,6 +80,15 @@ Langkah selanjutnya yaitu buatkan decision atau seleksi berupa pertanyaan Menamb
 ## Step 4 : Proses Perhitungan
 Langkah ini untuk memproses Nilai Akhir dari Input nilai nilai yang telah dimasukan :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/1423c610daf2a4cbdd774dd26190b1bf139660a1/23.png)
+
+## Step 5 : Output Nilai Akhir
+Masuk kelangkah Akhir yaitu menampilkan Nilai Akhir dari Data Mahasiswa yang telah diinputkan dan sudah dihitung :
+
+
+
+
+
 
 
 
