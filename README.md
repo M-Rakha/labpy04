@@ -58,5 +58,14 @@ Jalankan code program dengan memasukan nama, nilai tugas, nilai uts, nilai uas :
 - Nilai UTS : 55
 - Nilai UAS : 80
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/00367eafa8fa0ea57b339981b0da31627ce8c530/Cuplikan%20layar%202024-11-18%20194417.png)
+
+# FLOWCHART NILAI AKHIR
+
+## Step 1 : Start
+Titik Mulai :
+
+
+
 
 
