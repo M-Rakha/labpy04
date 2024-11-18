@@ -65,6 +65,12 @@ Jalankan code program dengan memasukan nama, nilai tugas, nilai uts, nilai uas :
 ## Step 1 : Start
 Titik Mulai :
 
+![gambar](https://github.com/M-Rakha/labpy04/blob/3c83ace9890585615c94287bd5caee2694928400/16.png)
+
+## Step 2 : Input Data Mahasiswa
+Buatkan Input Data Mahasiswa dengan mencangkup Nama, Nim, Nilai Tugas, Nilai UTS, Nilai UAS :
+
+
 
 
 
